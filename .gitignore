@@ -1,0 +1,39 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sql~
+
+# Secrets
+application-secrets.properties
+.env
